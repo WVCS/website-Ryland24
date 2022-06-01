@@ -11,3 +11,8 @@
     </center>
     </body>
 </html>      
+
+<style>
+body{background-color:#48C9B0;}
+p.ridge {border-style: ridge;}
+</style>
